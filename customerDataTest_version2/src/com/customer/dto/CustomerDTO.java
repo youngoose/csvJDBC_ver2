@@ -1,11 +1,12 @@
 package com.customer.dto;
 
 public class CustomerDTO {
-	int orderId;
-    String customerName;
-    String deliveryNumber;
-    String product;
-    String price;
+	
+	private int orderId;
+	private String customerName;
+	private String deliveryNumber;
+	private String product;
+	private String price;
 
     public CustomerDTO() {
     	

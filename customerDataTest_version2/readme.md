@@ -1,9 +1,9 @@
-# Customer Database version 2
-* Insert csv file data to sql through main
-* Update data through servlet
+# Customer Database version 3
+* Modify function (servlet)
+* Style web pages (jsp)
 
-## Currently working on version 3 
-* Modify and delete function
+## Currently working on version 4
+* Delete function
 
-## Goal 1
+## Goal 
 * Upgrade to Spring framework
